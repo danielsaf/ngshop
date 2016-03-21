@@ -1,0 +1,14 @@
+g{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-loader": "^1.5.0",
+    "angular-mocks": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "npm-angular-route": "^1.3.0-build.2880",
+    "gulp": "~3.9.1",
+    "gulp-concat": "~2.6.0"
+  }
+}
